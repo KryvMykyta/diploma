@@ -4,3 +4,4 @@ dist
 w.npy
 .idea
 __pycache__
+movielens
